@@ -136,8 +136,8 @@ PRODUCT_PACKAGES += \
     lineage.touch@1.0-service.realme_sdm710
 
 # USB
-PRODUCT_PACKAGES += \
-    android.hardware.usb@1.0-service.realme_sdm710
+# PRODUCT_PACKAGES += \
+  #  android.hardware.usb@1.0-service.realme_sdm710
 
 # VNDK
 PRODUCT_COPY_FILES += \
